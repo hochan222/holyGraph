@@ -30,6 +30,16 @@ holyGraph
 
 <br>
 
+## 👩🏽‍💻 5월 10일 (일)
+#### Complete
+- 어떤 Graph 라이브러리를 사용할지? __([#1](https://github.com/hochan222/holyGraph/issues/1))__
+    - 다양한 그래프 조사 및 최신 트랜드 조사
+    - [react-graph-vis](https://github.com/crubier/react-graph-vis)로 사용 리뷰어 승인 대기중
+#### To Do
+- 예상 결과물 기획 __([#5](https://github.com/hochan222/holyGraph/issues/5))__
+- Commit 정책 결정 __([#6](https://github.com/hochan222/holyGraph/issues/6))__
+
+<br>
 
 ## 참고 자료
 <!-- - []() -->
