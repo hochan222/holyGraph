@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/holyGraph/static/css/main.523f09c5.chunk.css",
+    "main.js": "/holyGraph/static/js/main.811ed8e8.chunk.js",
+    "main.js.map": "/holyGraph/static/js/main.811ed8e8.chunk.js.map",
+    "runtime-main.js": "/holyGraph/static/js/runtime-main.9d5c6a05.js",
+    "runtime-main.js.map": "/holyGraph/static/js/runtime-main.9d5c6a05.js.map",
+    "static/js/2.95b062b5.chunk.js": "/holyGraph/static/js/2.95b062b5.chunk.js",
+    "static/js/2.95b062b5.chunk.js.map": "/holyGraph/static/js/2.95b062b5.chunk.js.map",
+    "index.html": "/holyGraph/index.html",
+    "precache-manifest.3521ff6969923d81b64140e0146afa75.js": "/holyGraph/precache-manifest.3521ff6969923d81b64140e0146afa75.js",
+    "service-worker.js": "/holyGraph/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/holyGraph/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.95b062b5.chunk.js.LICENSE.txt": "/holyGraph/static/js/2.95b062b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d5c6a05.js",
+    "static/js/2.95b062b5.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.811ed8e8.chunk.js"
+  ]
+}
