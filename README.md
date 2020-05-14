@@ -17,7 +17,7 @@ holyGraph
 
 ## 개발일지
 <details>
-<summary> 1주차 개발 일지  (눌러서 내용보기) </summary>
+<summary> 개발 일지  (눌러서 내용보기) </summary>
 <div markdown="1">
 
 ## 👩🏽‍💻 5월 09일 (토)
@@ -38,6 +38,16 @@ holyGraph
 #### To Do
 - 예상 결과물 기획 __([#5](https://github.com/hochan222/holyGraph/issues/5))__
 - Commit 정책 결정 __([#6](https://github.com/hochan222/holyGraph/issues/6))__
+
+<br>
+
+## 👩🏽‍💻 5월 14일 (목)
+#### Complete
+- react-graph-vis 연구 __([#8](https://github.com/hochan222/holyGraph/issues/8))__
+    - Kamada Kawai 알고리즘
+- 전체 캔버스 크기 조정 __([#10](https://github.com/hochan222/holyGraph/issues/10))__
+    - layout
+    - configure
 
 <br>
 
