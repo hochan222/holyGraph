@@ -49,6 +49,12 @@ holyGraph
     - layout
     - configure
 
+<br>  
+
+## 👩🏽‍💻 5월 14일 (목)
+#### Todo
+- sidebar 계획 __([#12]https://github.com/hochan222/holyGraph/issues/12))__
+    - node, edge
 <br>
 
 ## 참고 자료
